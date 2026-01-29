@@ -26,9 +26,12 @@ Ensure the region in the top-right corner is set to US East (N. Virginia) – us
 
 
 
-*Step 3: Open Key Pairs Section*
+## Step 3: Open Key Pairs Section
 1.	On the left-hand menu, scroll down to Network & Security.
 2.	Click Key Pairs.
+
+![Keypair Menu](images/02-Keypairs-menu.png)
+
 
 
 *Step 4: Create a New Key Pair*
