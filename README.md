@@ -1,9 +1,10 @@
 # aws-keypair-guide
 
 This guide demonstrates how to create an RSA key pair in AWS using the Management Console (GUI). Key pairs are used to securely connect to EC2 instances via SSH.
-Region used: us-east-1
-Key pair name: nautilus-kp
-Key type: RSA
+
+-Region used: us-east-1
+-Key pair name: nautilus-kp
+-Key type: RSA
 
 *Step 1: Log in to AWS Console*
 1.	Open your browser and go to the AWS Console URL:
