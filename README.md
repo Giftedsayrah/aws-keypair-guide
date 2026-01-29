@@ -33,15 +33,16 @@ Ensure the region in the top-right corner is set to US East (N. Virginia) – us
 ![Keypair Menu](images/03-keypairs-menu.png)
 
 
-
-
-*Step 4: Create a New Key Pair*
+## Step 4: Create a New Key Pair
 1.	Click the Create key pair button.
-2.	Fill in the details:
-o	Key pair name: nautilus-kp
-o	Key pair type: RSA
-o	Private key file format: .pem (default for SSH)
+2.	Fill in the details: 
+- Key pair name: nautilus-kp o 
+-Key pair type: RSA 
+-Private key file format: .pem (default for SSH)
 3.	Click Create key pair.
+
+![Create Keypair](images/04-create-keypair.png)
+
    
 
 *Step 5: Download the Private Key*
