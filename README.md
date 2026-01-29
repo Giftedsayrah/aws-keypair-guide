@@ -8,18 +8,14 @@ This guide demonstrates how to create an RSA key pair in AWS using the Managemen
 
 -Key type: RSA
 
-*Step 1: Log in to AWS Console*
+## Step 1: Log in to AWS Console
 
-i.	Open your browser and go to the AWS Console URL:
-https://625000249352.signin.aws.amazon.com/console?region=us-east-1
+Navigate to the AWS Console and sign in using your credentials.
 
-ii. Enter your credentials: for example
+![AWS Console Login](images/01-dashboard.png)
 
--Username: labs_user_575004
 
--Password: BatfQbRHO8
-
-iii. Ensure the region in the top-right corner is set to US East (N. Virginia) – us-east-1.
+Ensure the region in the top-right corner is set to US East (N. Virginia) – us-east-1.
 
 
 *Step 2: Navigate to EC2 Dashboard*
