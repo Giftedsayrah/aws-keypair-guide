@@ -63,3 +63,4 @@ Ensure the region in the top-right corner is set to US East (N. Virginia) – us
 
 •	For phased cloud migration, consider creating separate key pairs for development, staging, and production environments.
 
+
