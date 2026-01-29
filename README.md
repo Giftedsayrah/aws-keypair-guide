@@ -37,26 +37,32 @@ Ensure the region in the top-right corner is set to US East (N. Virginia) – us
 1.	Click the Create key pair button.
 2.	Fill in the details: 
 - Key pair name: nautilus-kp o 
+
 -Key pair type: RSA 
+
 -Private key file format: .pem (default for SSH)
 3.	Click Create key pair.
 
 ![Create Keypair](images/04-create-keypair.png)
 
+![Keypair Created](images/05-keypair-created.png)
+
    
 
-*Step 5: Download the Private Key*
+## Step 5: Download the Private Key*
+
 •	After creation, the .pem file will automatically download.
+
 •	Important: Save this file securely. This is your only copy of the private key.
 
 
-*Step 6: Verify the Key Pair*
+## Step 6: Verify the Key Pair*
 1.	In the Key Pairs section, you should see nautilus-kp listed.
 2.	Click it to view Key pair details, including Key type (RSA) and Fingerprint.
 
    
 
-Best Practices
+## Best Practices
 
 •	Keep the .pem file secure; without it, SSH access to EC2 instances will fail.
 
