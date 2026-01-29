@@ -17,3 +17,7 @@
 
 
 <img width="1348" height="597" alt="04-create-keypair png" src="https://github.com/user-attachments/assets/af9b3e03-3d8a-4b42-8610-923ce4e2de0d" />
+
+
+
+<img width="1342" height="592" alt="05-keypair-created png" src="https://github.com/user-attachments/assets/75de6cbd-6ea6-438b-a7e9-45660abfba81" />
