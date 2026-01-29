@@ -4,9 +4,7 @@ This guide demonstrates how to create an RSA key pair in AWS using the Managemen
 
 
 -Region used: us-east-1
-
 -Key pair name: nautilus-kp
-
 -Key type: RSA
 
 ## Step 1: Log in to AWS Console
