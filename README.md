@@ -44,7 +44,8 @@ o	Private key file format: .pem (default for SSH)
 
    
 
-Notes / Best Practices
+Best Practices
+
 •	Keep the .pem file secure; without it, SSH access to EC2 instances will fail.
 •	For phased cloud migration, consider creating separate key pairs for development, staging, and production environments.
 
