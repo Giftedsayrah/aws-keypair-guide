@@ -30,7 +30,7 @@ Ensure the region in the top-right corner is set to US East (N. Virginia) – us
 1.	On the left-hand menu, scroll down to Network & Security.
 2.	Click Key Pairs.
 
-![Keypair Menu](images/02-Keypairs-menu.png)
+![Keypair Menu](images/03-Keypairs-menu.png)
 
 
 
