@@ -46,18 +46,19 @@ Ensure the region in the top-right corner is set to US East (N. Virginia) – us
 
 ![Create Keypair](images/04-create-keypair.png)
 
+
 ![Keypair Created](images/05-Keypair-created.png)
 
    
 
-## Step 5: Download the Private Key*
+## Step 5: Download the Private Key
 
 •	After creation, the .pem file will automatically download.
 
 •	Important: Save this file securely. This is your only copy of the private key.
 
 
-## Step 6: Verify the Key Pair*
+## Step 6: Verify the Key Pair
 1.	In the Key Pairs section, you should see nautilus-kp listed.
 2.	Click it to view Key pair details, including Key type (RSA) and Fingerprint.
 
