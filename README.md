@@ -13,6 +13,7 @@ This guide demonstrates how to create an RSA key pair in AWS using the Managemen
 https://625000249352.signin.aws.amazon.com/console?region=us-east-1
 2.	Enter your credentials: for example  
 -Username: labs_user_575004
+
 -Password: BatfQbRHO8
 4.	Ensure the region in the top-right corner is set to US East (N. Virginia) – us-east-1.
 
