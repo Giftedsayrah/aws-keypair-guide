@@ -18,9 +18,12 @@ Navigate to the AWS Console and sign in using your credentials.
 Ensure the region in the top-right corner is set to US East (N. Virginia) – us-east-1.
 
 
-*Step 2: Navigate to EC2 Dashboard*
+## Step 2: Navigate to EC2 Dashboard
 1.	In the Services menu, search for EC2.
 2.	Click EC2 to open the EC2 Dashboard.
+
+![EC2 dashboard](images/02-ec2-dashboard.png)
+
 
 
 *Step 3: Open Key Pairs Section*
