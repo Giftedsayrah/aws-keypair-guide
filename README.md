@@ -32,9 +32,9 @@ Ensure the region in the top-right corner is set to US East (N. Virginia) – us
 2.	Fill in the details: 
 - Key pair name: 
 
-- -Key pair type: RSA
+- Key pair type: RSA
 
-- -Private key file format: .pem (default for SSH)
+- Private key file format: .pem (default for SSH)
 3.	Click Create key pair.
 
 ![Create Keypair](images/04-create-keypair.png)
