@@ -30,7 +30,7 @@ Ensure the region in the top-right corner is set to US East (N. Virginia) – us
 ## Step 4: Create a New Key Pair
 1.	Click the Create key pair button.
 2.	Fill in the details: 
-- Key pair name: nautilus-kp o
+- Key pair name: 
 
 - -Key pair type: RSA
 
